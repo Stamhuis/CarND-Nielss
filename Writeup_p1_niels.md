@@ -55,7 +55,7 @@ This x,y value is then taken as one of the two points on basis of which a line i
 4 Both lines are then plotted on the original image so a clear feedback results to the designer to finetune the code pipeline. 
 
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+These are the steps taken to plot the line detection on the existing image.
 
 ![alt text][image0]
 
