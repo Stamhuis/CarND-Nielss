@@ -45,7 +45,13 @@ This x,y value is then taken as one of the two points on basis of which a line i
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+![alt text][./output/image0]
+![alt text][./output/image1]
+![alt text][./output/image2]
+![alt text][./output/image3]
+![alt text][./output/image4]
+![alt text][./output/image5]
+![alt text][./output/image6]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
