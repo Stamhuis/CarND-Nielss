@@ -16,12 +16,19 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image0]: ./Output/result0.jpg "result0"
+
 [image1]: ./Output/result1.jpg "result1"
+
 [image2]: ./Output/result2.jpg "result2"
+
 [image3]: ./Output/result3.jpg "result3"
+
 [image4]: ./Output/result4.jpg "result4"
+
 [image5]: ./Output/result5.jpg "result5"
+
 [image6]: ./Output/result6.jpg "result6"
+
 ---
 
 ### Reflection
@@ -51,11 +58,17 @@ This x,y value is then taken as one of the two points on basis of which a line i
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 ![alt text][image0]
+
 ![alt text][image1]
+
 ![alt text][image2]
+
 ![alt text][image3]
+
 ![alt text][image4]
+
 ![alt text][image5]
+
 ![alt text][image6]
 
 
