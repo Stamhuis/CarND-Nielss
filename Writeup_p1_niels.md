@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output/result1.jpg "Grayscale"
+[image1]: ./Output/result1.jpg "result1"
 
 ---
 
